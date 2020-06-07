@@ -1,10 +1,19 @@
 body {
-  margin: 25px;
-  text-align: left;
   background: FFFFFF;
   font-size: 16px;
   line-height: 1.7;
   font-family: serif;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.poem {
+  text-align: center;
+}
+
+.stanza {
+  text-align: left;
 }
 
 .page-title {
@@ -14,4 +23,8 @@ body {
 
 .page-subtitle {
   font-style: italic;
+}
+
+footer {
+  margin-top: 48px;
 }
