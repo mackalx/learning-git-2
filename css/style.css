@@ -1,0 +1,17 @@
+body {
+  margin: 25px;
+  text-align: left;
+  background: FFFFFF;
+  font-size: 16px;
+  line-height: 1.7;
+  font-family: serif;
+}
+
+.page-title {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.page-subtitle {
+  font-style: italic;
+}
