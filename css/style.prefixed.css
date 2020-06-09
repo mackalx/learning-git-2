@@ -14,6 +14,7 @@ body {
 
 .stanza {
   text-align: left;
+  display: -ms-flexbox;
   display: flex;
 }
 
